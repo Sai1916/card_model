@@ -1,0 +1,7 @@
+<element name="Appointment" src="../Appointment/pages/index/Appointment.hml"></element>
+<element name="Article" src="../Article/pages/index/Article.hml"></element>
+
+<div class="container">
+    <Article></Article>
+<!--    <Appointment></Appointment>-->
+</div>
