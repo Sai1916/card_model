@@ -18,7 +18,10 @@ Use the below code to import the `Card Component` in your `entrty/src/main/js/de
 
 ```hml
 <div class="container">
+// for Appointment-Card
     <Card type="appointment-card" name="Sai Sumedh" sub_title="Dental" image="https://lh3.googleusercontent.com/ogw/ADea4I5L0IsuKGGz3Ne1DGm44fm2W3x2zq9vS9kiMlDP3A=s32-c-mo"></Card>
+// for Article-Card    
+    <Card type="article" @event-type="{{ onClick }}" name="The developer guide" sub_title="5 days ago" desc="This is a sample article. Please use this library to get awesome article components." likes="300" views="967" btncolor="gray" image="https://static4.depositphotos.com/1004590/372/i/600/depositphotos_3729494-stock-photo-new-paper-article.jpg"></Card>
 </div>
 ```
 
