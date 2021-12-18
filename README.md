@@ -39,12 +39,11 @@ Use the below code to import the `Card Component` in your `entrty/src/main/js/de
 
 ### Appointment Card
 
-| Parameter       | Default                                  | Description                                                      |
-|-----------------|------------------------------------------|------------------------------------------------------------------|
-| name            | null                                     | It denotes the name of the doctor for which we have scheduled the 
-                                                               appointment                                                      |
-| sub_title       | null                                     | Sub_title specifies the a text with doctor's specialization      |
-| image           | null                                     | It will be an image of the doctor             |
+| Parameter       | Default               | Description                                                                  |
+|-----------------|-----------------------|------------------------------------------------------------------------------|
+| name            | null                  | It denotes the name of the doctor for which we have scheduled the appointment|
+| sub_title       | null                  | Sub_title specifies the a text with doctor's specialization                  |
+| image           | null                  | It will be an image of the doctor                                            |
     
 ### Article Card
 
