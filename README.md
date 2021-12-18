@@ -25,10 +25,10 @@ Use the below code to import the `Card Component` in your `entrty/src/main/js/de
 </div>
 ```
 
-### Props for Appointment Card
+### Appointment Card
 <img src="https://user-images.githubusercontent.com/52703087/145769482-b65038be-7de4-403d-9c05-3827a8d2a4ac.PNG" width="320px" height="250px" />
 
-### Props for Article Card
+### Article Card
 <img src="https://user-images.githubusercontent.com/52703087/146210763-4ccc2d26-1119-4c12-aed9-1609bb05457a.PNG" width="320px" height="600px" />
 
 ## Card 
@@ -37,7 +37,7 @@ Use the below code to import the `Card Component` in your `entrty/src/main/js/de
 
 ## Using different Type of Card with Props
 
-### Appointment Card
+### Props for Appointment Card
 
 | Parameter       | Default               | Description                                                                  |
 |-----------------|-----------------------|------------------------------------------------------------------------------|
@@ -45,7 +45,7 @@ Use the below code to import the `Card Component` in your `entrty/src/main/js/de
 | sub_title       | null                  | Sub_title specifies the a text with doctor's specialization                  |
 | image           | null                  | It will be an image of the doctor                                            |
     
-### Article Card
+### Props for Article Card
 
 | Parameter       | Default           | Description                                                                         |
 |-----------------|-------------------|-------------------------------------------------------------------------------------|
