@@ -14,6 +14,15 @@ Use the below code to import the `Card Component` in your `entrty/src/main/js/de
 
 `<element name="Card" src="../../../../../../node_modules/CardComponent/Card/index.hml"></element>`
 
+## Usage
+
+`
+<div class="container">
+    <Card type="appointment-card" name="Sai Sumedh" sub_title="Dental" image="https://lh3.googleusercontent.com/ogw/ADea4I5L0IsuKGGz3Ne1DGm44fm2W3x2zq9vS9kiMlDP3A=s32-c-mo"></Card>
+</div>
+
+`
+
 ### Appointment Card
 <img src="https://user-images.githubusercontent.com/52703087/145769482-b65038be-7de4-403d-9c05-3827a8d2a4ac.PNG" width="320px" height="250px" />
 
