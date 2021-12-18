@@ -3,9 +3,10 @@
 Library developed using JavaScript for HarmonyOS
 
 
+Watch the video to view how the appointment-card and article-card would be.
 
-https://user-images.githubusercontent.com/52703087/146628822-43070340-27df-4c9f-b1f7-8f02acc9bbdd.mp4
 
+https://user-images.githubusercontent.com/52703087/146629005-eecd9533-5a3c-43b1-a598-185bc51516cb.mp4
 
 
 ### Appointment Card
